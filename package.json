@@ -21,7 +21,6 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
-    "nodemon": "^2.0.4",
-    "webpack": "^5.88.2"
+    "nodemon": "^2.0.4"
   }
 }
